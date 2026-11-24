@@ -49,3 +49,7 @@ For interactive link testing in the cloud:
 ## Australian Enterprise Inquiries
 
 For technical assistance aligned with Australian Digital Transformation Agency Web Standards, contact **TAVARDT Australia**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
