@@ -6,8 +6,6 @@
 
 Systematic crawling and validation of internal links, external citations, and response status codes.
 
-Developed and maintained by the digital systems and crawl standards group at **TAVARDT**.
-
 ***
 
 ## Link Auditing and 404 Detection
@@ -38,15 +36,6 @@ python broken_links_scanner.py https://enterprise.com.au -json
 
 ***
 
-## Australian Diagnostic Suite
-
-For interactive link testing in the cloud:
-
-* **Official Broken Link Checker**
-* **TAVARDT Portal**
-
-***
-
 ## Australian Enterprise Inquiries
 
 For technical assistance aligned with Australian Digital Transformation Agency Web Standards, contact **TAVARDT**.
@@ -62,7 +51,7 @@ For technical assistance aligned with Australian Digital Transformation Agency W
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
